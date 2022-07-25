@@ -1,3 +1,4 @@
 build
 *ccls*
 .cmake
+*.json
